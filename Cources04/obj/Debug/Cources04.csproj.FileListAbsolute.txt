@@ -1,0 +1,5 @@
+c:\users\oleg\documents\visual studio 2012\Projects\Cources04\Cources04\obj\Debug\Cources04.csprojResolveAssemblyReference.cache
+c:\users\oleg\documents\visual studio 2012\Projects\Cources04\Cources04\bin\Debug\Cources04.exe
+c:\users\oleg\documents\visual studio 2012\Projects\Cources04\Cources04\bin\Debug\Cources04.pdb
+c:\users\oleg\documents\visual studio 2012\Projects\Cources04\Cources04\obj\Debug\Cources04.exe
+c:\users\oleg\documents\visual studio 2012\Projects\Cources04\Cources04\obj\Debug\Cources04.pdb
